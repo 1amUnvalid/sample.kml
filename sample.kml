@@ -3,7 +3,7 @@
   <Document>
     <Placemark>
       <name>broken
-      <Point><coordinates>Reference mimeType="application/json" xlink:href="http://172.17.0.3:8000" method="GET"</coordinates></Point>
+      <Point><coordinates>57.4989,-20.1669,0</coordinates></Point>
     </Placemark>
   </Document>
 </kml>
